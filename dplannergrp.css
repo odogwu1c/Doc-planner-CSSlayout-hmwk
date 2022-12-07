@@ -1,0 +1,11 @@
+body{
+    background-color: white;
+}
+
+.navbar{
+    display: flex;
+}
+
+.logo {
+    color: linear-gradient(90deg, rgb(105, 197, 97), rgb(204, 193, 193));
+}
